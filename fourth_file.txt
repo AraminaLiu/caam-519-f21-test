@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is fourth file
+=======
+hello class!
+>>>>>>> new-branch
