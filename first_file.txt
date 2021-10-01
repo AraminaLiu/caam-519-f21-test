@@ -1,4 +1,1 @@
-hello
-This is second line
-
-new line
+first file
